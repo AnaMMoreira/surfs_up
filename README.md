@@ -2,7 +2,7 @@
 ## Modulle 9 Challenge
 
 ## Overview of the analysis: 
-### Explanation of the purpose of this analysis
+### Purpose of this analysis
 
 A friend, W. Avy, has asked that we conduct and analysis in order to determine the viability of opening up a Surf and Shake shop which will market surfing gear and ice cream in Hawaii. 
 He likes a previously conducted analysis based on climate data in which rainfall and some temperature trends were described. However, before opening the surf shop, information about temperature trends were further analyzed using SQLite and SQLAlchemy local database query tools.   Specifically, temperature data for the months of June and December in Oahu, were extracted and analyzed to determine if the surf and ice cream shop business is sustainable year-round.
@@ -25,7 +25,7 @@ Summary tables for the comparison of the statistical description of Temperature 
 
 ## Summary: 
 
-In conclusion, the seasonal variation in temperature in Oahu is most likely not going to affect sales for both surfing gear and ice cream.  The mild temperatures are supportive of activities such as surfing and eating ice cream and would therefore indicate a successful business venture.  It would be interesting however to make sure that this analysis is comparing two good representing months so looking at the stats of all 12 months in order to determine which month might contain the lowest temperatures and/or find an average-month statistics might be helpful.  Another analysis might look at hourly data on a seasonal basis and compare them to open business hours and/or beach access hours.
+In conclusion, the seasonal variation in temperature in Oahu is most likely not going to affect sales for both surfing gear and ice cream.  The mild temperatures are supportive of activities such as surfing and eating ice cream through out the year and would therefore indicate a successful business venture.  It would be interesting however to make sure that this analysis is comparing two good representing months so looking at the stats of all 12 months in order to determine which month might contain the lowest temperatures and/or find an average-month statistics might be helpful.  Another analysis might look at hourly data on a seasonal basis and compare them to open for business hours and/or beach access hours.
 
 
 
